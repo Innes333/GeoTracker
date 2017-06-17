@@ -1,0 +1,11 @@
+{
+  "dependencies": {
+    "gulp": "^3.9.1",
+    "package.json": "^2.0.1"
+  },
+  "devDependencies": {
+    "browser-sync": "^2.18.12",
+    "gulp": "^3.9.1",
+    "gulp-yarn": "^1.0.0"
+  }
+}
